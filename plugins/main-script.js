@@ -7,7 +7,7 @@ let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.js
 m.reply(`
 *≡ SCRIPT*
 
-▢ Git : https://github.com/RedAlpha/Chintu-Bot-V1`    
+▢ Git : https://github.com/RedAlpha137/Chintu-Bot`    
 }
 
 handler.help = ['script']
