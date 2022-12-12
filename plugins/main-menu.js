@@ -36,9 +36,9 @@ const defaultMenu = {
 📈 Active since : %muptime
 ─────────────
 ▢ Creater bot 
-• https://www.youtube.com/@Asliguru
+• https://youtube.com/@user-gq5sx7cg4v
 ▢ creater group
-• https://chat.whatsapp.com/FYvu6iqA7UA3sGePjPK636
+• https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j
 ─────────────
 %readmore
 Ⓟ = Premium
@@ -149,9 +149,9 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     
-    let pp = './src/Alpha.jpg'
+    let pp = './src/alpha.jpg'
     
-     conn.sendHydrated2(m.chat, text.trim(), '▢ Life Is Very Short Always Be Happy\n▢ ᴳᵁᴿᵁ  ┃ ᴮᴼᵀ\n▢ Follow on  Instagram\nhttps://www.instagram.com/asli_guru69\n', pp, fgyt, 'YouTube', 'https://t.me/i_want_to_be_isekaied', 'TELEGRAM', [
+     conn.sendHydrated2(m.chat, text.trim(), '▢ Life Is Very Short Always Be Happy\n▢ ᴳᵁᴿᵁ  ┃ ᴮᴼᵀ\n▢ Follow on  Instagram\nhttps://www.instagram.com/mukarrammhmd\n', pp, fgyt, 'YouTube', 'https://t.me/redalpha1', 'TELEGRAM', [
       ['ꨄ︎ DONATE', `${_p}donate`],
       ['⏍ Info', `${_p}botinfo`],
       ['⌬ Groups', `${_p}gpdylux`]
@@ -162,7 +162,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
       ['⌬ Grupos', `${_p}gpdylux`]
     ],m, rpl)*/
   
-    m.react('👙') 
+    m.react('🤖') 
     
   } catch (e) {
     conn.reply(m.chat, '❎ Sorry, the menu has an error', m)
