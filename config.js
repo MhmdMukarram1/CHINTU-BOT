@@ -32,7 +32,7 @@ global.dygp = 'https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j'
 global.fgsc = 'https://github.com/RedAlpha137/Chintu-Bot' 
 global.fgyt = 'https://youtube.com/@user-gq5sx7cg4v'
 global.fgpyp = 'https://youtube.com/@user-gq5sx7cg4v'
-global.fglog = 'https://raw.githubusercontent.com/RedAlpha/api/Alpha/alpha.jpg' 
+global.fglog = 'https://raw.githubusercontent.com/RedAlpha137/api/Alpha/alpha.jpg' 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
