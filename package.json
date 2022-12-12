@@ -26,13 +26,13 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/RedAlpha/Chintu-Bot-V1",
+    "homepage": "https://github.com/RedAlpha137/Chintu-Bot",
     "author": {
         "name": "GURU"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/RedAlpha/Chintu-Bot-V1.git"
+        "url": "git+https://github.com/RedAlpha137/Chintu-Bot.git"
     },
     "bugs": {
         "url": "https://github.com/RedAlpha/Chintu-Bot-V1/issues"
