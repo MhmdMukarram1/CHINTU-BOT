@@ -4,25 +4,25 @@ let handler = async m => m.reply(`
 
 ─────────────
 ▢ Group 1
-https://chat.whatsapp.com/FYvu6iqA7UA3sGePjPK636
+https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j
 
 ▢ Group 2
-https://chat.whatsapp.com/EdpAQTof9BW8Mn4CnBFhWY
+https://chat.whatsapp.com/FaQlZwhBZ8oCj0xvfJTFG7
 
 ▢ Group 3
-https://chat.whatsapp.com/I1eAuFDBp6a1568QD0CeCk
+https://chat.whatsapp.com/Lwv90gY65uM8jLLjB8ACKt
 
 ─────────────
 ≡ Disabled links? enter here! 
 
-▢ Group WhatsApp 
- https://chat.whatsapp.com/FYvu6iqA7UA3sGePjPK636
+▢ WhatsApp 
+ wa.me/94740979220
 ─────────────
 ▢ *Owner Telegram*
- https://t.me/i_want_to_be_isekaied
+ https://t.me/redalpha1
 
 ▢ *YouTube*
-• https://www.youtube.com/@Asliguru
+• https://youtube.com/@user-gq5sx7cg4v
 
 
 `.trim())
