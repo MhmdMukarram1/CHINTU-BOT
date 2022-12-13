@@ -15,7 +15,7 @@ let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command }) =
 		const title = await yt.title
 		const size = await yt.video[q].fileSizeH 
 		
-       if (size.split('MB')[0] >= limit) return m.reply(` ≡  *RedAlpha YTDL*\n\n▢ *⚖️Size* : ${size}\n▢ *🎞️quality* : ${q}\n\n▢ _The file exceeds the download limit_ *+${limit} MB*`)    
+       if (size.split('MB')[0] >= limit) return m.reply(` ≡  *CHINTU YTDL*\n\n▢ *⚖️Size* : ${size}\n▢ *🎞️quality* : ${q}\n\n▢ _The file exceeds the download limit_ *+${limit} MB*`)    
 	  conn.sendFile(m.chat, dl_url, title + '.mp4', `
  ≡  *CHINTU YTDL*
   
@@ -31,7 +31,7 @@ let handler = async (m, { conn, args, isPrems, isOwner, usedPrefix, command }) =
 		const { title, result, quality, size, duration, thumb, channel } = await fg.ytv(args[0]) 
 		if (size.split('MB')[0] >= limit) return m.reply(` ≡  *RedAlpha YTDL2*\n\n▢ *⚖️Size* : ${size}\n▢ *🎞️Quality* : ${quality}\n\n▢ _The file exceeds the download limit_ *+${limit} MB*`)
 	conn.sendFile(m.chat, result, title + '.mp4', `
- ≡  *RedAlpha YTDL2*
+ ≡  *CHINTU YTDL2*
   
 ▢ *📌Títle* : ${title}
 ▢ *📟 Ext* : mp4
